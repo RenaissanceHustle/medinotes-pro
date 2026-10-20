@@ -1,11 +1,10 @@
 # medinotes-pro
 Build a Professional Healthcare Application
 
-Day 4: Healthcare Consultation Assistant
-Build a Professional Healthcare Application
-Today, you'll transform your SaaS into a healthcare consultation assistant that helps doctors generate patient summaries, action items, and patient-friendly emails from their visit notes.
+Healthcare Consultation Assistant
+Building a Professional Healthcare Application
+A healthcare consultation assistant that helps doctors generate patient summaries, action items, and patient-friendly emails from their visit notes.
 
-What You'll Build
 A healthcare application that:
 
 Takes doctor's consultation notes as input
@@ -16,7 +15,7 @@ Uses structured forms with date pickers
 Streams AI-generated content in real-time
 Prerequisites
 Completed Day 3 (authentication and subscriptions working)
-Your app deployed to Vercel
+app deployed to Vercel
 Step 1: Install Additional Dependencies
 We need a date picker for the consultation form:
 
@@ -522,4 +521,4 @@ Multi-language: Support for patient emails in different languages
 Integration: Connect with EHR systems
 Analytics: Track consultation patterns and time saved
 Collaboration: Allow multiple doctors to share templates
-Your healthcare assistant is ready to help medical professionals save time and improve patient communication!
+The healthcare assistant is ready to help medical professionals save time and improve patient communication!
